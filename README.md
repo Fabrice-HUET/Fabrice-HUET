@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/React_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react logo" title="React Native" height="30"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" alt="Node.js logo" title="Node.js" height="30"/>
 <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" alt="git logo" title="git" height="30"/>
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)" alt="GraphQL Logo" title="GraphQL" height="30"/>  
 
 
 <h2 align="center"> 🛠 Tools </h2>
@@ -34,7 +35,7 @@
 <img src="https://img.shields.io/badge/Google-%23D14836.svg?&style=plastic&logo=google&logoColor=white" alt="Google logo" title="Google" height="30" />
 <img  src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" title="S.Overflow" height="30">
 <img  src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="30">
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)" alt="GraphQL Logo" title="GraphQL" height="30"/>  
+
 </p>
 
 <h2 align="center"> Next Steps </h2>
