@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" alt="CSS3 logo" title="CSS3" height="30"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap" alt="bootstrap logo" title="bootstrap" height="30"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=tailwind" alt="tailwind logo" title="tailwind" height="30"/>  
+<img src="https://img.shields.io/badge/-Tailwind-563D7C?style=plastic&logo=tailwind" alt="tailwind logo" title="tailwind" height="30"/>  
 <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" alt="javascript logo" title="javascript" height="30"/>
 <img src="https://img.shields.io/badge/-React-black?style=plastic&logo=react" alt="react logo" title="react.js" height="30"/>
 <img src="https://img.shields.io/badge/React_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react logo" title="React Native" height="30"/>
