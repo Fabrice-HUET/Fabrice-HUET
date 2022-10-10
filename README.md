@@ -34,14 +34,14 @@
 <img src="https://img.shields.io/badge/Google-%23D14836.svg?&style=plastic&logo=google&logoColor=white" alt="Google logo" title="Google" height="30" />
 <img  src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" title="S.Overflow" height="30">
 <img  src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="30">
-  
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)" alt="GraphQL Logo" title="GraphQL" height="30"/>  
 </p>
 
 <h2 align="center"> Next Steps </h2>
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)" alt="GraphQL Logo" title="GraphQL" height="30"/>
+
 <img  src="https://img.shields.io/badge/Typescript-2F74c0?style=plastic&logo=Typescript&logoColor=white" alt="Typescript logo" title="Typescript" height="30">
 </p>
 
