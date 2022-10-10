@@ -18,13 +18,14 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" alt="CSS3 logo" title="CSS3" height="30"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap" alt="bootstrap logo" title="bootstrap" height="30"/>
-<img src="https://img.shields.io/badge/-Tailwind-563D7C?style=plastic&logo=tailwind" alt="tailwind logo" title="tailwind" height="30"/>  
-<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" alt="javascript logo" title="javascript" height="30"/>
-<img src="https://img.shields.io/badge/-React-black?style=plastic&logo=react" alt="react logo" title="react.js" height="30"/>
-<img src="https://img.shields.io/badge/React_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react logo" title="React Native" height="30"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap" alt="bootstrap logo" title="Bootstrap" height="30"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="tailwind" height="30"/>  
+<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" alt="javascript logo" title="Javascript" height="30"/>
+<img src="https://img.shields.io/badge/-React-black?style=plastic&logo=react" alt="react logo" title="React.js" height="30"/>
+<img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="30"/>
+<img src="https://img.shields.io/badge/React_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" height="30"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" alt="Node.js logo" title="Node.js" height="30"/>
-<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" alt="git logo" title="git" height="30"/>
+<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" alt="git logo" title="Git" height="30"/>
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)" alt="GraphQL Logo" title="GraphQL" height="30"/>  
 
 
